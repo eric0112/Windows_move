@@ -1,4 +1,3 @@
 cd D:
 move *.* *.bat
-del.txt
 echo "OK"
